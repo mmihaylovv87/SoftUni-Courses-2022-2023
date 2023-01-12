@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\bin\Debug\net6.0\02 PrintNumbersInReverseOrder.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\bin\Debug\net6.0\02 PrintNumbersInReverseOrder.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\bin\Debug\net6.0\02 PrintNumbersInReverseOrder.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\bin\Debug\net6.0\02 PrintNumbersInReverseOrder.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\bin\Debug\net6.0\02 PrintNumbersInReverseOrder.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\refint\02 PrintNumbersInReverseOrder.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\02 PrintNumbersInReverseOrder.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\02 PrintNumbersInReverseOrder\02 PrintNumbersInReverseOrder\obj\Debug\net6.0\ref\02 PrintNumbersInReverseOrder.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\bin\Debug\net6.0\01.DayOfWeek.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\refint\01.DayOfWeek.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\01.DayOfWeek.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Arrays - Lab\01.DayOfWeek\01.DayOfWeek\obj\Debug\net6.0\ref\01.DayOfWeek.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoundingNumbers", "03.RoundingNumbers\03.RoundingNumbers.csproj", "{52B3AFE8-CA27-4D2C-BA00-A9A0DB03EB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B3AFE8-CA27-4D2C-BA00-A9A0DB03EB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B3AFE8-CA27-4D2C-BA00-A9A0DB03EB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B3AFE8-CA27-4D2C-BA00-A9A0DB03EB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B3AFE8-CA27-4D2C-BA00-A9A0DB03EB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32778948-F1B5-4514-9A5B-0CBBC17119E6}
+	EndGlobalSection
+EndGlobal
