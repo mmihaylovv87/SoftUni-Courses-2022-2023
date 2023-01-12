@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\bin\Debug\net5.0\Teoriq.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\bin\Debug\net5.0\Teoriq.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\bin\Debug\net5.0\Teoriq.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\bin\Debug\net5.0\Teoriq.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\bin\Debug\net5.0\Teoriq.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\bin\Debug\net5.0\Teoriq.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\refint\Teoriq.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\Teoriq.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Teoriq\obj\Debug\net5.0\ref\Teoriq.dll

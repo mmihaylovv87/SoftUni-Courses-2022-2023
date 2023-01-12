@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\bin\Debug\net5.0\Exercise3.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\bin\Debug\net5.0\Exercise3.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\bin\Debug\net5.0\Exercise3.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\bin\Debug\net5.0\Exercise3.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\refint\Exercise3.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\Exercise3.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\FinalExam\Exercise3\obj\Debug\net5.0\ref\Exercise3.dll
