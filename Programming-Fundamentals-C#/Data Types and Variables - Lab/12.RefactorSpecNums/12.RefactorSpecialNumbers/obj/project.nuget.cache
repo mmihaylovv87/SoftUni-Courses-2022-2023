@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lnPFlICIaI7JcsxZ85UkeAZzMHd7E3OjsyA2ERILEBoeP+8kXAg9wsXL3XE2dHK9Nj7QIiJFWrliB7c+ubuz7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Programing Fundamental\\Data Types and Variables - Lab\\12.RefactorSpecialNumbers\\12.RefactorSpecialNumbers\\12.RefactorSpecialNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
