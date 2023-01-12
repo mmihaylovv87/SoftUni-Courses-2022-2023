@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\bin\Debug\net5.0\Problem 1 – Guinea Pig.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\bin\Debug\net5.0\Problem 1 – Guinea Pig.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\bin\Debug\net5.0\Problem 1 – Guinea Pig.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\bin\Debug\net5.0\Problem 1 – Guinea Pig.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\bin\Debug\net5.0\Problem 1 – Guinea Pig.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\bin\Debug\net5.0\Problem 1 – Guinea Pig.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\refint\Problem 1 – Guinea Pig.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\Problem 1 – Guinea Pig.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Mid Exam Preparation\Problem 1 – Guinea Pig\Problem 1 – Guinea Pig\obj\Debug\net5.0\ref\Problem 1 – Guinea Pig.dll
