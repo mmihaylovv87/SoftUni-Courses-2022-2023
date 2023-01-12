@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\bin\Debug\net5.0\06. Cards Game.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\bin\Debug\net5.0\06. Cards Game.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\bin\Debug\net5.0\06. Cards Game.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\bin\Debug\net5.0\06. Cards Game.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\bin\Debug\net5.0\06. Cards Game.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\bin\Debug\net5.0\06. Cards Game.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\refint\06. Cards Game.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\06. Cards Game.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\06. Cards Game\06. Cards Game\obj\Debug\net5.0\ref\06. Cards Game.dll

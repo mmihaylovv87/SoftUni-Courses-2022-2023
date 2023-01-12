@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\bin\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\refint\09. Pokemon Don't Go.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\09. Pokemon Don't Go.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - Exercise\09. Pokemon Don't Go\09. Pokemon Don't Go\obj\Debug\net5.0\ref\09. Pokemon Don't Go.dll
