@@ -1,0 +1,32 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\refint\Demo.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\ref\Demo.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\bin\Debug\net5.0\Demo.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\refint\Demo.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\Demo.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\Lists - More Exercise\Demo\Demo\obj\Debug\net5.0\ref\Demo.dll
