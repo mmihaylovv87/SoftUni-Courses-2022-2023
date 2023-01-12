@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\bin\Debug\net5.0\FifthExercise.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\bin\Debug\net5.0\FifthExercise.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\bin\Debug\net5.0\FifthExercise.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\bin\Debug\net5.0\FifthExercise.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\bin\Debug\net5.0\FifthExercise.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\bin\Debug\net5.0\FifthExercise.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\refint\FifthExercise.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\FifthExercise.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\DEMO\Objects and Classes Again\FifthExercise\obj\Debug\net5.0\ref\FifthExercise.dll
