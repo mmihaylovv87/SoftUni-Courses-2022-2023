@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\refint\02. A Miner Task.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Exercise\02. A Miner Task\02. A Miner Task\obj\Debug\net5.0\ref\02. A Miner Task.dll
