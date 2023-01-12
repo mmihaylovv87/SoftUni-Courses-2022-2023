@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\bin\Debug\net5.0\Exercise2.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\bin\Debug\net5.0\Exercise2.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\bin\Debug\net5.0\Exercise2.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\bin\Debug\net5.0\Exercise2.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\bin\Debug\net5.0\Exercise2.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\bin\Debug\net5.0\Exercise2.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\refint\Exercise2.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\Exercise2.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation2\Exercise2\obj\Debug\net5.0\ref\Exercise2.dll
