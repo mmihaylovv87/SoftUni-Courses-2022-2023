@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\bin\Debug\net5.0\Exercise3 - PlantDiscovery.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\bin\Debug\net5.0\Exercise3 - PlantDiscovery.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\bin\Debug\net5.0\Exercise3 - PlantDiscovery.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\bin\Debug\net5.0\Exercise3 - PlantDiscovery.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\bin\Debug\net5.0\Exercise3 - PlantDiscovery.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\bin\Debug\net5.0\Exercise3 - PlantDiscovery.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\refint\Exercise3 - PlantDiscovery.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\Exercise3 - PlantDiscovery.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Programing Fundamental\ExamPreparation1\Exercise3 - PlantDiscovery\obj\Debug\net5.0\ref\Exercise3 - PlantDiscovery.dll

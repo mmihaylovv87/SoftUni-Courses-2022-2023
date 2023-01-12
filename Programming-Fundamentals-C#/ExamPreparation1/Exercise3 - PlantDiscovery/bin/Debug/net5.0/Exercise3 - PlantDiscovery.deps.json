@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exercise3 - PlantDiscovery/1.0.0": {
+        "runtime": {
+          "Exercise3 - PlantDiscovery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise3 - PlantDiscovery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
