@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Real Numbers", "01. Count Real Numbers\01. Count Real Numbers.csproj", "{5F2EA1CA-DDAD-4DBB-A1B1-C3B9E95E558B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2EA1CA-DDAD-4DBB-A1B1-C3B9E95E558B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2EA1CA-DDAD-4DBB-A1B1-C3B9E95E558B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2EA1CA-DDAD-4DBB-A1B1-C3B9E95E558B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2EA1CA-DDAD-4DBB-A1B1-C3B9E95E558B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19172287-268C-4B21-AC8D-C752862EB400}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net5.0\01. Count Real Numbers.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net5.0\01. Count Real Numbers.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net5.0\01. Count Real Numbers.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net5.0\01. Count Real Numbers.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net5.0\01. Count Real Numbers.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\bin\Debug\net5.0\01. Count Real Numbers.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\refint\01. Count Real Numbers.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\01. Count Real Numbers.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Associative Arrays - Lab\01. Count Real Numbers\01. Count Real Numbers\obj\Debug\net5.0\ref\01. Count Real Numbers.dll
