@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\bin\Debug\net5.0\02. Center Point.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\bin\Debug\net5.0\02. Center Point.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\bin\Debug\net5.0\02. Center Point.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\bin\Debug\net5.0\02. Center Point.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\refint\02. Center Point.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\02. Center Point.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - More Exercise\02. Center Point\02. Center Point\obj\Debug\net5.0\ref\02. Center Point.dll
