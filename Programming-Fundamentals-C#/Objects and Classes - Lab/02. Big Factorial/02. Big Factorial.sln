@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Big Factorial", "02. Big Factorial\02. Big Factorial.csproj", "{483E435E-2079-49A2-92EA-3132A461729A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{483E435E-2079-49A2-92EA-3132A461729A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483E435E-2079-49A2-92EA-3132A461729A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483E435E-2079-49A2-92EA-3132A461729A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483E435E-2079-49A2-92EA-3132A461729A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A6D653-E09B-4D78-9A59-4E69E73114DE}
+	EndGlobalSection
+EndGlobal
