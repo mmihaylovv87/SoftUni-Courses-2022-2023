@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\refint\08. Factorial Division.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\08. Factorial Division\08. Factorial Division\obj\Debug\net5.0\ref\08. Factorial Division.dll

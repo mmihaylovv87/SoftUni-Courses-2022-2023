@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\refint\11. Array Manipulator.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\11. Array Manipulator\11. Array Manipulator\obj\Debug\net5.0\ref\11. Array Manipulator.dll

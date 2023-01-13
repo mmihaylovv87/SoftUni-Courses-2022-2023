@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\refint\06. Middle Characters.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Methods - Exercise\06. Middle Characters\06. Middle Characters\obj\Debug\net5.0\ref\06. Middle Characters.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Factorial Division", "08. Factorial Division\08. Factorial Division.csproj", "{CEEEC146-E24E-4C97-B2D5-0585BB65F394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEEC146-E24E-4C97-B2D5-0585BB65F394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEEC146-E24E-4C97-B2D5-0585BB65F394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEEC146-E24E-4C97-B2D5-0585BB65F394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEEC146-E24E-4C97-B2D5-0585BB65F394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909C7577-01C9-4229-ADD7-C0D5F4A3DDE4}
+	EndGlobalSection
+EndGlobal
