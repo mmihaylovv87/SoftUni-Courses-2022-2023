@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.exe
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.deps.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\refint\01. Reverse Strings.dll
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.pdb
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\C# Programing Fundamental\Text Processing - Lab\01. Reverse Strings\01. Reverse Strings\obj\Debug\net5.0\ref\01. Reverse Strings.dll
