@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\net5.0\3. Simple Calculator.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\refint\3. Simple Calculator.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\3. Simple Calculator.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\net5.0\ref\3. Simple Calculator.dll

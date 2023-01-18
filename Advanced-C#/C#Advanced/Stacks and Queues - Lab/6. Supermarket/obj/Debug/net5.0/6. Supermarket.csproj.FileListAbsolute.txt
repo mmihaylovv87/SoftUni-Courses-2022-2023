@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\bin\Debug\net5.0\6. Supermarket.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\refint\6. Supermarket.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\6. Supermarket.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\6. Supermarket\obj\Debug\net5.0\ref\6. Supermarket.dll

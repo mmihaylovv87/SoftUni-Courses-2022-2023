@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\bin\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\refint\5. Print Even Numbers.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\5. Print Even Numbers.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\5. Print Even Numbers\obj\Debug\net5.0\ref\5. Print Even Numbers.dll

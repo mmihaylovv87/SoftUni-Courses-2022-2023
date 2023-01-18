@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\bin\Debug\net5.0\1. Reverse a String.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\refint\1. Reverse a String.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\1. Reverse a String.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Lab\1. Reverse a String\obj\Debug\net5.0\ref\1. Reverse a String.dll
