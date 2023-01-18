@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\net5.0\09. Simple Text Editor.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\refint\09. Simple Text Editor.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\09. Simple Text Editor.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\net5.0\ref\09. Simple Text Editor.dll

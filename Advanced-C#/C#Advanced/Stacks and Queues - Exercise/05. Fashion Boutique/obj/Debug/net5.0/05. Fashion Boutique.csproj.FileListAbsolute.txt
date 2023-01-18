@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\net5.0\05. Fashion Boutique.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\refint\05. Fashion Boutique.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\05. Fashion Boutique.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\net5.0\ref\05. Fashion Boutique.dll
