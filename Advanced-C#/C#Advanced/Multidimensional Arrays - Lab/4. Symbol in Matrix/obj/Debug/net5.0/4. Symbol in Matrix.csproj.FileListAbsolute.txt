@@ -1,0 +1,16 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\refint\4. Symbol in Matrix.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\4. Symbol in Matrix.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\net5.0\ref\4. Symbol in Matrix.dll
