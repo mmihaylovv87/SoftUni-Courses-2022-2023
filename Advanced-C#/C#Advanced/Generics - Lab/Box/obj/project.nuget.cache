@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCtoVRydoX13FnaNUtm+nNlsxeoU16yIZhu9HO1I525RnREHWwKR+MabyD4Ih8l7CRhq2lTvLBwEAuoXRsng4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Generics - Lab\\Box\\BoxOfT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
