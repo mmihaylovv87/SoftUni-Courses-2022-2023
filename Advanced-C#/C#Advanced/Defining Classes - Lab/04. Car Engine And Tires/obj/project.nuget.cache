@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A69FhiiuFBTDif4MdBfhzC7MI7XZJKdATsdF3qnnmvYT8vvZnC6QY1cuDnOhMjWVlyv5kv8jLGEJqswDE991Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Defining Classes - Lab\\04. Car Engine And Tires\\04. Car Engine And Tires.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

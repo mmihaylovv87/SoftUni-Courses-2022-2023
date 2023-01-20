@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/48oAm9VgwmKNbnS3djk42cS9bCaB8F8VcfXWgSFa9WF9hSbnxStzrgTg85rWBnvjChO9fGWWyz8UFzMGve1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Defining Classes - Lab\\01. Car\\01. Car.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
