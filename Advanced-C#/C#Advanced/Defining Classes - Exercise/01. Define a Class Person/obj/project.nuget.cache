@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pH/mEbCwLpD+neGPX894pUsUduVf0nKgICBgYx7qQmBBEQf7NcjxW442Q3MLlN8CqnbxsPuX3zudGe0JjxOHig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Defining Classes - Exercise\\01. Define a Class Person\\01. Define a Class Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

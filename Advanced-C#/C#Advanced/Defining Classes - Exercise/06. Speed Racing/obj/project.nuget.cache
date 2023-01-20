@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R75Mfqj1ReUOhnKuLD0FksGxPYZWZFJV/gbcA5JbNZwUeOdfjmmkRaoAuriL0usvaF7/0c45W7sckg521+uTIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Defining Classes - Exercise\\06. Speed Racing\\06. Speed Racing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

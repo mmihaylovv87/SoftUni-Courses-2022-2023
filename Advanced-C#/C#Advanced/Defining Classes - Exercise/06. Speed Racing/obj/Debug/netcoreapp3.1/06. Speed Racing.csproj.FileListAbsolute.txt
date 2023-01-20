@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\bin\Debug\netcoreapp3.1\06. Speed Racing.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Defining Classes - Exercise\06. Speed Racing\obj\Debug\netcoreapp3.1\06. Speed Racing.genruntimeconfig.cache
