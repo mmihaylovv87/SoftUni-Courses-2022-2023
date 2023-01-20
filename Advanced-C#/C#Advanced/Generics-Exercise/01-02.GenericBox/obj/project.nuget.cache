@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ui3wifQRsly3imapAQNkF6yL/GQAOyyuv2YhO6FPus0wSrnvrSmGZ/mR/Dxsh/gDd4rkGP7Tmzxdr12Odr9YFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Generics-Exercise\\01-02.GenericBox\\01-02.GenericBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

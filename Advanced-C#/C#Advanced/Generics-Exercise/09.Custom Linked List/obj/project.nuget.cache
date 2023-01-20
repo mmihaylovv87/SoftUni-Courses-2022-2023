@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8wHLjLGQrtr3fo4JVlHxvD8wGbLiM1WGr1Fvm91tpJGKoLLYZ8pPX3Vb4Ry6pgJh3pyuSCBIF1Wy0LLYGqRVcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Generics-Exercise\\09.Custom Linked List\\09.Custom Linked List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

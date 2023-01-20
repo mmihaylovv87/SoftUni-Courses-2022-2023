@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q1PhiAEsswcKTZvg45fbP9PYnPqUDoWtqn+sKrtCP+5jBm+M65c9qlG4PlTJgWLoQCYs/QS8OTRxNEyPj1tGKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Generics-Exercise\\07. 08. Tuple\\07. 08. Tuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

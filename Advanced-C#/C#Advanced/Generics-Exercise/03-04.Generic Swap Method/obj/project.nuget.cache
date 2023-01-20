@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zEjHKdgl9/D56W8V6YQ7g5kahlJ3Z+XdjBQKpYyC4xlOJICynTpHIJcl1us6j4hcRC8GhqmCWFi9Y3nK0dxbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Generics-Exercise\\03-04.Generic Swap Method\\03-04.Generic Swap Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

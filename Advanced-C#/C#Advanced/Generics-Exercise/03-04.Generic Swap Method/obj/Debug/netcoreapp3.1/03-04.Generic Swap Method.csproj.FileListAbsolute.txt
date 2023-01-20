@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\bin\Debug\netcoreapp3.1\03-04.Generic Swap Method.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\bin\Debug\netcoreapp3.1\03-04.Generic Swap Method.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\bin\Debug\netcoreapp3.1\03-04.Generic Swap Method.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\bin\Debug\netcoreapp3.1\03-04.Generic Swap Method.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\bin\Debug\netcoreapp3.1\03-04.Generic Swap Method.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\bin\Debug\netcoreapp3.1\03-04.Generic Swap Method.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\03-04.Generic Swap Method\obj\Debug\netcoreapp3.1\03-04.Generic Swap Method.genruntimeconfig.cache

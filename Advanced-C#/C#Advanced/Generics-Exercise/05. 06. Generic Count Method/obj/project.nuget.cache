@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gG39j6I7GZLXAOF8eEh1wnrJBHlbUXN/Z4ppQDgqZhOek0rWaMlIvPQQ2DQQ5qWyrLc18DS+wMfjZUA+P0OVSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# Advanced\\Generics-Exercise\\05. 06. Generic Count Method\\05. 06. Generic Count Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

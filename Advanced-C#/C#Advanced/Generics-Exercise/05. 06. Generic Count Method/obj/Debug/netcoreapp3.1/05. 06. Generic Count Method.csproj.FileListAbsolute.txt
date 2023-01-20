@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\bin\Debug\netcoreapp3.1\05. 06. Generic Count Method.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\bin\Debug\netcoreapp3.1\05. 06. Generic Count Method.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\bin\Debug\netcoreapp3.1\05. 06. Generic Count Method.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\bin\Debug\netcoreapp3.1\05. 06. Generic Count Method.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\bin\Debug\netcoreapp3.1\05. 06. Generic Count Method.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\bin\Debug\netcoreapp3.1\05. 06. Generic Count Method.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# Advanced\Generics-Exercise\05. 06. Generic Count Method\obj\Debug\netcoreapp3.1\05. 06. Generic Count Method.genruntimeconfig.cache
