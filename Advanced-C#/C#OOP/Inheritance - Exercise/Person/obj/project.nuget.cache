@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5nfzjrWALOXbWg5v0Rh+lRNkjjGHhkKZJMA5TC2lcGN41rUa8HM/FP8LZICbSK6Dbt1fw6rPmAVqeyZrqK35Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Inheritance - Exercise\\Person\\Person.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

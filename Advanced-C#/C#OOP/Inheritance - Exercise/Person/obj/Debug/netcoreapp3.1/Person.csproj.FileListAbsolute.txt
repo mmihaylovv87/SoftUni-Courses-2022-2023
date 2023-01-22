@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

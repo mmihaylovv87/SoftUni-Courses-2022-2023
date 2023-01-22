@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z6qWb/oxG2yh3/1IQubPqzF9mh4m+V8A0mfrIYlak32/qZgvaQmYJeUP8QfrXDjv/ywucqzNlT1imCXiQIhEHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Inheritance - Exercise\\Zoo\\Zoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
