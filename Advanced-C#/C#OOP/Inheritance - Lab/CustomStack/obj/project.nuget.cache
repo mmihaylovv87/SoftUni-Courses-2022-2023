@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UyQ4sHF9AROGqae2njK7jI1L5mKtxweOrwLUoPsLvFph81+nTkmDyF9Bim8QMMxiLLh1BOIOkRh+xY9MScVaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Inheritance - Lab\\CustomStack\\CustomStack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

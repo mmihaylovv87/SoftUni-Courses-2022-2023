@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFYBXLwnB8vTIgN906qeHmsqgKWV6jvb8LXYIcNR2Su7fa9IpIm0I9XoJ9ed9p5KNdA1hV9oT/L8AHwxpef+nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Inheritance - Lab\\Farm\\Farm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
