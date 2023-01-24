@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G44dwQeppzgcwYgrKSOvpYNygLylEd+UahdGa8ar1j0UegzdfgERORlZTEkxc/T0DdQP9UB50eQwGfrk5QwAPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Encapsulation - Exercise\\Animal Farm\\Animal Farm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

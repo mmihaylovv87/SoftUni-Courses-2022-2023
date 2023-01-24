@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\bin\Debug\netcoreapp3.1\Football Team Generator.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\bin\Debug\netcoreapp3.1\Football Team Generator.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\bin\Debug\netcoreapp3.1\Football Team Generator.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\bin\Debug\netcoreapp3.1\Football Team Generator.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\bin\Debug\netcoreapp3.1\Football Team Generator.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\bin\Debug\netcoreapp3.1\Football Team Generator.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Encapsulation - Exercise\Football Team Generator\obj\Debug\netcoreapp3.1\Football Team Generator.genruntimeconfig.cache
