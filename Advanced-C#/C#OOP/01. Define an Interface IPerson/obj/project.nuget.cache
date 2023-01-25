@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8Ml0/0FiOZzzqhTXyJto7I74C1iv+imnl/fGwP4GZfesRImmb+0vXufXvmzGCwypL1iZltv5EjT9IZFsfsLVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Interfaces and Abstraction - Exercise\\01. Define an Interface IPerson\\01. Define an Interface IPerson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
