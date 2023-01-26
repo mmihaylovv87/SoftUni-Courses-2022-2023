@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\04. Wild Farm.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\04. Wild Farm.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\04. Wild Farm.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\04. Wild Farm.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\04. Wild Farm.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\bin\Debug\netcoreapp3.1\04. Wild Farm.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\04. Wild Farm\obj\Debug\netcoreapp3.1\04. Wild Farm.genruntimeconfig.cache
