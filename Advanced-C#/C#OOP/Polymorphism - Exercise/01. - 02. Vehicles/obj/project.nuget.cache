@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FW+5RIVb0iPgBPxLclZrwm6kPI0q2vi5aRve1gz0Zzf9fxS33MgtIHK4vmH4bMplyl6aBLw/O6GA3sCE/nfHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Polymorphism - Exercise\\Vehicles\\01. - 02.Vehicles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

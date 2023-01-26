@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\bin\Debug\netcoreapp3.1\03. Raiding.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Exercise\03. Raiding\obj\Debug\netcoreapp3.1\03. Raiding.genruntimeconfig.cache
