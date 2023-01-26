@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UaKMPJiZ/QUeJQqFEqONdDsaalS9tdo2q95msjEDEGCRasIrMcHRx/ZwCGqgHIa/EzogRp/DRhc8bzFBG8+ctg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Polymorphism - Lab\\02. Animals\\02. Animals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

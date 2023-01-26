@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3FrSXmxIGI0ma0TqQBMU6OgS4U8ggviI/EenBCGjvfW1E0jUOuMLPZN6iTpvTVYPG91z8wwO/02od+KDQjUl/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Polymorphism - Lab\\01. Math Operations\\01. Math Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

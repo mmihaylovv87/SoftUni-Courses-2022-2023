@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp3.1\01. Math Operations.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp3.1\01. Math Operations.genruntimeconfig.cache
