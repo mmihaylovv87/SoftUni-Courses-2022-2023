@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\bin\Debug\netcoreapp3.1\03. Telephony.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\03. Telephony\obj\Debug\netcoreapp3.1\03. Telephony.genruntimeconfig.cache
