@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bn9/enlCpJXW9VkRPwZs9CvPq2CBO22IC+X3SSwmxoLU9dMzYCauhP9nOhOzYWJY3007Ph68Bwq6Z5UJDrAlGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Interfaces and Abstraction - Exercise\\07. Military Elite\\07. Military Elite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

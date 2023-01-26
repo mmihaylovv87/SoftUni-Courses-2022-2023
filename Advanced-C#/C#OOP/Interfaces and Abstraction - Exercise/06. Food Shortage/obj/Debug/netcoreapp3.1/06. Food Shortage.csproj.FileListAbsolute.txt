@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\bin\Debug\netcoreapp3.1\06. Food Shortage.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\06. Food Shortage\obj\Debug\netcoreapp3.1\06. Food Shortage.genruntimeconfig.cache
