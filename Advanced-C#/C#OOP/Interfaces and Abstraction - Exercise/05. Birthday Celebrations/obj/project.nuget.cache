@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9bfprrJ1XQFZ8syF+gWe8pIM9E1Ps0Xh2qCyUcC+YGPqUBgkf6fV32fkgyAjBa9hH10N3D2Hb07PqvSnLS4iA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Работен плот\\SoftUni Courses\\C# OOP\\Interfaces and Abstraction - Exercise\\05. Birthday Celebrations\\05. Birthday Celebrations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}

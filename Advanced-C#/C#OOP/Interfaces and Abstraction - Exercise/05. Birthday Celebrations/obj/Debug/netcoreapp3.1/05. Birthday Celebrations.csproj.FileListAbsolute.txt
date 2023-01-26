@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\bin\Debug\netcoreapp3.1\05. Birthday Celebrations.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\05. Birthday Celebrations\obj\Debug\netcoreapp3.1\05. Birthday Celebrations.genruntimeconfig.cache

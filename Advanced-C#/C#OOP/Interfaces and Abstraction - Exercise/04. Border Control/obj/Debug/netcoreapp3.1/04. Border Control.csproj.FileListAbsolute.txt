@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\bin\Debug\netcoreapp3.1\04. Border Control.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Interfaces and Abstraction - Exercise\04. Border Control\obj\Debug\netcoreapp3.1\04. Border Control.genruntimeconfig.cache
