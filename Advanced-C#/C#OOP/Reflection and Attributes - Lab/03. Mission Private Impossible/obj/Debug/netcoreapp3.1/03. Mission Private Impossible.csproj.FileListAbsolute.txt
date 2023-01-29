@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\bin\Debug\netcoreapp3.1\03. Mission Private Impossible.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\03. Mission Private Impossible\obj\Debug\netcoreapp3.1\03. Mission Private Impossible.genruntimeconfig.cache
