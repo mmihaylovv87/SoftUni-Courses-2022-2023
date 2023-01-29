@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.genruntimeconfig.cache

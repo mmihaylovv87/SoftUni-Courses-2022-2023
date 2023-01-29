@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\01. Stealer.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\01. Stealer.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\01. Stealer.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\01. Stealer.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\01. Stealer.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp3.1\01. Stealer.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp3.1\01. Stealer.genruntimeconfig.cache
