@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp3.1\05. Create Attribute.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp3.1\05. Create Attribute.genruntimeconfig.cache
