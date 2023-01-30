@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.exe
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.deps.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\bin\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.dll
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.pdb
+C:\Users\Admin\OneDrive\Работен плот\SoftUni Courses\C# OOP\Unit Testing - Lab\01. Test Axe\Skeleton\obj\Debug\netcoreapp3.1\Skeleton.genruntimeconfig.cache
